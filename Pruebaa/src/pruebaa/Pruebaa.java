@@ -1,9 +1,7 @@
 package pruebaa;
 
-
 public class Pruebaa {
 
-    
     public static void main(String[] args)
     {
         int cont = 0;
