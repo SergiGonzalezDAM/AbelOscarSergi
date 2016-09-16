@@ -17,7 +17,9 @@ public class Pruebaa {
                     System.out.println("He salido");
                     entrar = false;
                     
-                }  
+                } else{
+                System.out.println("Funciona ??¿¿");
+            } 
         }
     }
     
